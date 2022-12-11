@@ -1,2 +1,2 @@
-a school system website
+a school system website using html and php
 
